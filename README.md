@@ -98,14 +98,15 @@ db.once('open', function() {
 });
 ```
 出现以下界面即代表连接数据库成功
-![](https://riyugo.com/i/2020/12/17/farrab.png)
+https://riyugo.com/i/2020/12/17/farrab.png
 
 ## 部分页面
 首页
-![](https://riyugo.com/i/2020/12/17/fj6hqz.png)
+https://riyugo.com/i/2020/12/17/fj6hqz.png
 
 添加学院
-![](https://riyugo.com/i/2020/12/17/fj6ddx.png)
+https://riyugo.com/i/2020/12/17/fj6ddx.png
 
 学院管理
-![](https://riyugo.com/i/2020/12/17/fj6g0b.png)
+https://riyugo.com/i/2020/12/17/fj6g0b.png
+
